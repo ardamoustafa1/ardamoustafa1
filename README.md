@@ -1,138 +1,127 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:6366f1,100:14b8a6&height=200&section=header&text=Arda%20Moustafa&fontSize=72&fontColor=fff&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Backend%20Developer%20%E2%80%A2%20Computer%20Engineering%20Student&descAlignY=60&descSize=15&descColor=a5b4fc&animation=fadeIn" />
-
+  <a href="https://ardamoustafacv.netlify.app">
+    <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d14,30:1a0533,60:0d1a3d,100:0a0a0f&height=300&section=header&text=Arda%20Moustafa&fontSize=80&fontColor=e2e8f0&fontAlignY=40&desc=AI%20Engineer%20·%20Backend%20Architect%20·%20NLP%20Systems&descAlignY=62&descSize=18&descColor=6366f1&animation=fadeIn" />
+  </a>
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&multiline=false&width=720&lines=%E2%9A%A1+60%25+latency+reduction+via+async+architecture;%F0%9F%A7%A0+NLP+pipelines+%7C+FastAPI+%7C+PyTorch+%7C+Real-time+systems;%F0%9F%8F%97%EF%B8%8F+13-stage+CI%2FCD+on+AWS+ECS+%7C+Terraform+%7C+Docker;%F0%9F%8E%AF+80%25%2B+accuracy+NLP+classification+models)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=750&lines=%E2%9A%A1+FastAPI+async+pipelines+%E2%80%94+60%25+latency+reduction;%F0%9F%A7%A0+NLP+%7C+PyTorch+%7C+HuggingFace+%7C+Real-time+ASR;%F0%9F%8F%97%EF%B8%8F+13-stage+CI%2FCD+on+AWS+ECS+%7C+Terraform+%7C+Docker;%F0%9F%8E%AF+80%25%2B+accuracy+NLP+text+classification+models;%F0%9F%9A%80+Production-grade+AI+at+scale+%E2%80%94+Istanbul%2C+Turkey)](https://git.io/typing-svg)
 
 </div>
 
 <br/>
 
 <div align="center">
-
-<a href="https://ardamoustafacv.netlify.app">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-ardamoustafacv.netlify.app-6366f1?style=for-the-badge&labelColor=0a0a0f&color=6366f1" />
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/arda-moustafa-746335335">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0f" />
-</a>
-&nbsp;
-<a href="mailto:ardamoustafa@hotmail.com">
-  <img src="https://img.shields.io/badge/Email-ardamoustafa@hotmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0f" />
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Istanbul%2C%20Turkey-🇹🇷-white?style=flat-square&labelColor=0a0a0f&color=1e1b4b" />
-&nbsp;
-<img src="https://img.shields.io/badge/Status-🟢_Open_to_Opportunities-22c55e?style=flat-square&labelColor=0a0a0f" />
-&nbsp;
-<img src="https://img.shields.io/badge/Focus-AI_%2F_NLP_%2F_Backend-6366f1?style=flat-square&labelColor=0a0a0f" />
-
+  <a href="https://ardamoustafacv.netlify.app">
+    <img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-ardamoustafacv.netlify.app-6366f1?style=for-the-badge&labelColor=0a0a0f&color=6366f1" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/arda-moustafa-746335335">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0f" />
+  </a>
+  &nbsp;
+  <a href="mailto:ardamoustafa@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0f" />
+  </a>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Istanbul%2C%20Turkey-%F0%9F%87%B9%F0%9F%87%B7-white?style=flat-square&labelColor=0a0a0f&color=1e1b4b" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-%F0%9F%9F%A2_Open_to_Opportunities-22c55e?style=flat-square&labelColor=0a0a0f" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-AI_%2F_NLP_%2F_Backend-6366f1?style=flat-square&labelColor=0a0a0f" />
 </div>
 
 ---
 
-## 🧠 about.py
+## `$ whoami`
 
-<img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=ardamoustafa1&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=0a0a0f&title_color=6366f1&icon_color=14b8a6&text_color=94a3b8&include_all_commits=true&rank_icon=github" />
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=ardamoustafa1&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=0d0d14&title_color=6366f1&icon_color=14b8a6&text_color=94a3b8&include_all_commits=true&rank_icon=github" />
 
 ```python
-class Arda:
+class ArdaMoustafa:
+    name        = "Arda Moustafa"
     role        = "AI Engineer @ Softhub"
-    university  = "İstinye University — Comp. Eng."
+    university  = "İstinye University — Comp. Eng. (2023→)"
     location    = "Istanbul, Turkey 🇹🇷"
     status      = "🟢 Open to Opportunities"
 
-    focus = [
+    expertise = [
         "NLP & Deep Learning pipelines",
         "High-performance async backends",
         "Real-time event-driven systems",
         "Production-grade AI at scale",
+        "Fintech infrastructure & security",
     ]
 
     stack = {
-        "AI/ML"   : ["PyTorch", "HuggingFace", "OpenCV"],
-        "Backend" : ["FastAPI", "Redis", "PostgreSQL"],
-        "DevOps"  : ["Terraform", "AWS", "Docker", "CI/CD"],
-        "Frontend": ["React", "Next.js", "React Native"],
+        "AI/ML"   : ["PyTorch", "HuggingFace BERT", "OpenCV", "ASR"],
+        "Backend" : ["FastAPI", "Redis", "PostgreSQL", "Microservices"],
+        "DevOps"  : ["AWS ECS/ALB", "Terraform", "Docker", "CI/CD"],
+        "Frontend": ["React", "Next.js", "React Native", "TypeScript"],
     }
 
-    principle = "Clean code. Real impact."
+    languages = {
+        "English": "C1", "Turkish": "Native", "German": "A2"
+    }
+
+    principle = "Clean code. Real impact. Zero shortcuts."
 ```
-
-<br/>
-
-> ⚡ **60% faster** APIs via async architecture
->
-> 🎯 **80%+ accuracy** NLP classification models
->
-> 🏗️ **13-stage CI/CD** on AWS ECS with automated rollback
->
-> 👥 Led **6+ person** engineering teams at GDG on Campus
 
 <br clear="right"/>
 
 ---
 
-## 📊 Impact Metrics
+## `$ cat metrics.log`
 
 <div align="center">
 
-| ⚡ Latency Reduced | 🎯 NLP Accuracy | 🏗️ CI/CD Stages | 🚀 Projects Shipped |
-|:---:|:---:|:---:|:---:|
-| **60%** | **80%+** | **13** | **6+** |
-| via async arch | text classification | AWS ECS | production-grade |
+| ⚡ API Latency | 🎯 NLP Accuracy | 🏗️ CI/CD Pipeline | 📡 Data Providers | 👥 Teams Led |
+|:---:|:---:|:---:|:---:|:---:|
+| **−60%** | **80%+** | **13 stages** | **8 sources** | **6+ devs** |
+| async arch | text classification | AWS ECS · k6 · Playwright | p95 < 800ms | GDG on Campus |
 
 </div>
 
 ---
 
-## 💼 experience.log
+## `$ cat experience.log`
 
-### 🏢 Softhub &nbsp;·&nbsp; AI Developer & Software Engineer
-
-![](https://img.shields.io/badge/Jun_2025-Present-6366f1?style=flat-square&labelColor=0a0a0f)
-
-```
-▸ FastAPI RESTful APIs — 60% latency reduction via async architecture
-▸ Speech-to-Text (ASR) + NLP pipelines for real-time voice analysis
-▸ Text classification & keyword extraction — 80%+ accuracy
-▸ Dockerized microservices + Swagger/OpenAPI documentation
-▸ PostgreSQL data models for scalable backend infrastructure
-```
-
-### 🎓 Google Developer Groups on Campus &nbsp;·&nbsp; Core Team · Project Lead
-
-![](https://img.shields.io/badge/Aug_2025-Present-14b8a6?style=flat-square&labelColor=0a0a0f)
+### 🏢 **Softhub** — AI Developer & Software Engineer
+![](https://img.shields.io/badge/June_2025-Present-6366f1?style=flat-square&labelColor=0d0d14)
 
 ```
-▸ Led 6+ person engineering teams
-▸ Drove backend architecture & technology decisions
-▸ Agile/Scrum sprint management
+▸ Built high-perf FastAPI RESTful APIs → 60% avg latency reduction via async architecture
+▸ Speech-to-Text (ASR) + NLP pipelines for real-time voice transcription & analysis
+▸ Text classification & keyword extraction models → 80%+ accuracy
+▸ PostgreSQL data models for scalable, production-grade backend infrastructure
+▸ Dockerized microservices with Swagger/OpenAPI docs for streamlined team integration
+```
+
+### 🎓 **Google Developer Groups on Campus** — Core Team · Project Lead
+![](https://img.shields.io/badge/August_2025-Present-14b8a6?style=flat-square&labelColor=0d0d14)
+
+```
+▸ Led 6+ person engineering teams across full project lifecycle
+▸ Drove backend architecture decisions & tech stack selection
+▸ Agile/Scrum sprint management & technical mentorship
 ```
 
 ---
 
-## 🚀 projects/
+## `$ ls -la projects/`
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
 ### 💹 [MarketPulseAI](https://github.com/ardamoustafa1/MarketPulseAI)
-
-> Full-stack fintech platform for cross-asset investment analysis
+> Full-stack fintech platform · cross-asset investment analysis
 
 - 📊 Real-time pricing engine · **8 data providers** · **p95 < 800ms**
 - 🔐 JWT rotation, TOTP 2FA, CSRF, HMAC, append-only audit log
-- 🇹🇷 Turkish gold/silver derivatives (Gram, Çeyrek, ATA, Has)
-- 🚀 **13-stage CI/CD** — k6, Playwright E2E, AWS ECS/ALB
+- 🇹🇷 Turkish gold derivatives (Gram Altın, Çeyrek, ATA, Has Altın)
+- 🚀 **13-stage CI/CD** — k6 load tests, Playwright E2E, AWS ECS/ALB
 
 `FastAPI` `PostgreSQL` `Redis` `React Native` `Terraform` `AWS`
 
@@ -140,13 +129,12 @@ class Arda:
 <td width="50%" valign="top">
 
 ### 🏗️ [SystemForge-AI](https://github.com/ardamoustafa1/SystemForge-AI)
-
 > Artifact-first AI platform → production-ready system designs
 
-- 🤖 LLM pipeline with fault-tolerant architecture
-- ⚡ **Redis Streams** + Outbox pattern event-driven workers
-- 🔄 WebSocket real-time generation with versioning & review
-- 📋 ADR + Threat Model, Docker Compose orchestration
+- 🤖 Fault-tolerant LLM pipeline · schema-first architecture
+- ⚡ **Redis Streams** + Outbox pattern · async worker topology
+- 🔄 WebSocket real-time generation · versioning & review flows
+- 📋 ADR + Threat Model · Docker Compose orchestration
 
 `FastAPI` `Next.js` `Redis` `Docker` `WebSocket`
 
@@ -156,27 +144,25 @@ class Arda:
 <td width="50%" valign="top">
 
 ### ✍️ [TextHelper](https://github.com/ardamoustafa1/TextHelper)
-
 > Hybrid Turkish text suggestion engine
 
 - ⚡ **Trie** fast lookup + **BERT** contextual prediction
-- 🔍 Elasticsearch + **SymSpell** + Zeyrek typo tolerance
-- 🔄 Redis + WebSockets async real-time streaming
+- 🔍 Elasticsearch + **SymSpell** + Zeyrek morphology tolerance
+- 🔄 Redis + WebSockets · async real-time streaming
 - 🐳 Dockerized · Rate Limiting · API Key security
 
-`Python` `BERT` `Redis` `Elasticsearch`
+`Python` `BERT` `HuggingFace` `Redis` `Elasticsearch`
 
 </td>
 <td width="50%" valign="top">
 
 ### 📡 [StreamGuard](https://github.com/ardamoustafa1/StreamGuard)
-
 > 24/7 live stream anomaly detection engine
 
-- 🔍 Detects freeze, black screen, audio loss in **milliseconds**
-- 📼 Auto-DVR: saves last 15 sec on audio drop below **-50dB**
-- 📲 **Telegram Bot** instant video evidence delivery
-- 📊 FastAPI + Chart.js Command Center dashboard
+- 🔍 Freeze, black screen & audio loss detection in **milliseconds**
+- 📼 Auto-DVR: saves last 15s on audio drop below **−50dB**
+- 📲 **Telegram Bot** delivers instant video evidence
+- 📊 FastAPI + Chart.js live Command Center dashboard
 
 `Python` `OpenCV` `FFmpeg` `FastAPI`
 
@@ -185,28 +171,26 @@ class Arda:
 <tr>
 <td width="50%" valign="top">
 
-### 📺 [MediaAudit](https://github.com/ardamoustafa1/MediaAudit) &nbsp; ⭐ 3
-
+### 📺 [MediaAudit](https://github.com/ardamoustafa1/MediaAudit) ⭐ 3
 > Enterprise broadcast intelligence platform
 
 - 📺 Real-time **ad verification** & detection at scale
 - 🎵 Audio fingerprinting pipeline
 - 🎬 Automated video evidence clipping
-- ⚙️ Fully AI-powered end-to-end
+- ⚙️ End-to-end AI-powered broadcast monitoring
 
 `Python` `OpenCV` `FastAPI` `NLP`
 
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ [TrustMask](https://github.com/ardamoustafa1/TrustMask) &nbsp; ⭐ 1
-
+### 🛡️ [TrustMask](https://github.com/ardamoustafa1/TrustMask) ⭐ 1
 > AI-powered content moderation system
 
-- 🚦 Detects **harmful, toxic & unsafe** content
-- 🧠 NLP classification with HuggingFace models
-- 📊 Real-time moderation pipeline
-- 💡 Explainable AI decision outputs
+- 🚦 Detects **harmful, toxic & unsafe** content in real-time
+- 🧠 NLP classification with HuggingFace transformers
+- 📊 Real-time moderation decision pipeline
+- 💡 Explainable AI output with reasoning traces
 
 `Python` `HuggingFace` `Flask` `NLP`
 
@@ -216,7 +200,7 @@ class Arda:
 
 ---
 
-## 🛠️ stack.json
+## `$ cat stack.json`
 
 <div align="center">
 
@@ -253,58 +237,45 @@ class Arda:
 
 ---
 
-## 📈 GitHub Stats
+## `$ github --stats`
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=ardamoustafa1&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=0a0a0f&title_color=6366f1&icon_color=14b8a6&text_color=94a3b8&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ardamoustafa1&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=0d0d14&title_color=6366f1&icon_color=14b8a6&text_color=94a3b8&include_all_commits=true" />
 &nbsp;
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardamoustafa1&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=0a0a0f&title_color=6366f1&text_color=94a3b8&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardamoustafa1&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=0d0d14&title_color=6366f1&text_color=94a3b8&langs_count=8" />
 
 <br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ardamoustafa1&theme=github-dark-blue&hide_border=true&background=0a0a0f&ring=6366f1&fire=14b8a6&currStreakLabel=6366f1&sideLabels=64748b&dates=64748b&stroke=1e1b4b)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ardamoustafa1&theme=github-dark-blue&hide_border=true&background=0d0d14&ring=6366f1&fire=14b8a6&currStreakLabel=6366f1&sideLabels=64748b&dates=64748b&stroke=1e1b4b)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🏆 certifications
+## `$ cat certifications.txt`
 
 <div align="center">
 
-![Google AI Essentials](https://img.shields.io/badge/Google-AI%20Essentials-4285F4?style=flat-square&logo=google&logoColor=white&labelColor=0a0a0f)
-![Prompt Engineering](https://img.shields.io/badge/Google-Prompt%20Engineering-4285F4?style=flat-square&logo=google&logoColor=white&labelColor=0a0a0f)
-![Project Management](https://img.shields.io/badge/Google-Project%20Management-4285F4?style=flat-square&logo=google&logoColor=white&labelColor=0a0a0f)
-![Sui Blockchain](https://img.shields.io/badge/Sui%20Foundation-Blockchain%20Dev-4CA2FF?style=flat-square&labelColor=0a0a0f)
-![Git & GitHub](https://img.shields.io/badge/Git%20%26%20GitHub-Version%20Control-F05032?style=flat-square&logo=git&logoColor=white&labelColor=0a0a0f)
-![API Testing](https://img.shields.io/badge/BTK%20Akademi-API%20%26%20Testing-FF6C37?style=flat-square&logo=postman&logoColor=white&labelColor=0a0a0f)
+![Google AI Essentials](https://img.shields.io/badge/Google-AI_Essentials-4285F4?style=flat-square&logo=google&logoColor=white&labelColor=0d0d14)
+![Prompt Engineering](https://img.shields.io/badge/Google-Prompt_Engineering-4285F4?style=flat-square&logo=google&logoColor=white&labelColor=0d0d14)
+![Project Management](https://img.shields.io/badge/Google-Project_Management-4285F4?style=flat-square&logo=google&logoColor=white&labelColor=0d0d14)
+![Intro to AI](https://img.shields.io/badge/Google-Intro_to_AI-4285F4?style=flat-square&logo=google&logoColor=white&labelColor=0d0d14)
+![Sui Blockchain](https://img.shields.io/badge/Sui_Foundation-Blockchain_Dev-4CA2FF?style=flat-square&labelColor=0d0d14)
+![API Testing](https://img.shields.io/badge/BTK_Akademi-API_%26_Testing-FF6C37?style=flat-square&logo=postman&logoColor=white&labelColor=0d0d14)
+![Git GitHub](https://img.shields.io/badge/Git_%26_GitHub-Version_Control-F05032?style=flat-square&logo=git&logoColor=white&labelColor=0d0d14)
 
 </div>
 
 ---
 
-## 🗣️ Languages
-
-<div align="center">
-
-![English](https://img.shields.io/badge/🇬🇧_English-C1-6366f1?style=flat-square&labelColor=0a0a0f)
-&nbsp;
-![Turkish](https://img.shields.io/badge/🇹🇷_Turkish-Native-14b8a6?style=flat-square&labelColor=0a0a0f)
-&nbsp;
-![German](https://img.shields.io/badge/🇩🇪_German-A2-f59e0b?style=flat-square&labelColor=0a0a0f)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
+## `$ cat /proc/contribution-snake`
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ardamoustafa1/ardamoustafa1/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ardamoustafa1/ardamoustafa1/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ardamoustafa1/ardamoustafa1/output/github-contribution-grid-snake-dark.svg" width="100%" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/ardamoustafa1/ardamoustafa1/output/github-contribution-grid-snake-dark.svg" width="100%" />
   </picture>
 </div>
 
@@ -312,20 +283,26 @@ class Arda:
 
 <div align="center">
 
-**💬 Let's build something exceptional together**
+**`// Let's build something that matters.`**
+
+<br/>
 
 <a href="https://ardamoustafacv.netlify.app">
-  <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-6366f1?style=for-the-badge&labelColor=0a0a0f" />
+  <img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-6366f1?style=for-the-badge&labelColor=0d0d14" />
 </a>
 &nbsp;
 <a href="https://linkedin.com/in/arda-moustafa-746335335">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0f" />
+  <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d14" />
+</a>
+&nbsp;
+<a href="mailto:ardamoustafa@hotmail.com">
+  <img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d14" />
 </a>
 
 <br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ardamoustafa1&label=Profile+Views&color=6366f1&style=flat)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14b8a6,50:6366f1,100:0a0a0f&height=120&section=footer&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,50:1a0533,100:0d1a3d&height=120&section=footer&animation=fadeIn" />
 
 </div>
