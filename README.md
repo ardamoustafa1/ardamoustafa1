@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=380&color=0:000000,20:0A0A0E,50:111116,80:1A1A24,100:D4AF37&text=ARDA%20MOUSTAFA&fontColor=FFFFFF&fontSize=82&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20Backend%20Architect%20%E2%80%A2%20Production%20Systems&descSize=19&descAlignY=60&descColor=D4AF37&animation=fadeIn&stroke=D4AF37&strokeWidth=1"/>
+<!-- ANIMATED HEADER — type=rect gives a clean full-bleed background with no sphere artifacts -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=340&color=0:000000,35:0A0A0E,65:111116,100:0A0A0E&text=ARDA%20MOUSTAFA&fontColor=D4AF37&fontSize=86&fontAlignY=45&desc=AI%20Engineer%20%E2%80%A2%20Backend%20Architect%20%E2%80%A2%20Production%20Systems&descSize=20&descAlignY=65&descColor=FFFFFF&animation=fadeIn"/>
 
 </div>
 
@@ -287,8 +287,27 @@ OPEN TO: Collaboration · AI Products · Backend Systems · Hard Problems
 
 </div>
 
-<!-- Snake animation — paste this into your GitHub Actions workflow to activate -->
-<!--
+---
+
+## 🐍 CONTRIBUTION SNAKE
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ardamoustafa1/ardamoustafa1/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ardamoustafa1/ardamoustafa1/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ardamoustafa1/ardamoustafa1/output/github-snake-dark.svg" width="100%"/>
+</picture>
+
+</div>
+
+<!-- 
+  ⚠️ SNAKE KURULUMU — BU ADIMLAR OLMADAN YILAN ÇALIŞMAZ:
+
+  1. Profil repon: github.com/ardamoustafa1/ardamoustafa1 (README ile aynı repo)
+  2. .github/workflows/snake.yml dosyası oluştur, aşağıdaki içeriği yapıştır:
+
+─────────────────────────────────────────────────
 name: Generate Snake
 
 on:
@@ -312,4 +331,8 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+─────────────────────────────────────────────────
+
+  3. Workflow'u Actions sekmesinden manuel çalıştır (workflow_dispatch)
+  4. output branch otomatik oluşturulur → yılan görünür
 -->
