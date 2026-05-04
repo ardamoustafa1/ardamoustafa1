@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- ANIMATED HEADER — type=rect gives a clean full-bleed background with no sphere artifacts -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=340&color=0:000000,35:0A0A0E,65:111116,100:0A0A0E&text=ARDA%20MOUSTAFA&fontColor=D4AF37&fontSize=86&fontAlignY=45&desc=AI%20Engineer%20%E2%80%A2%20Backend%20Architect%20%E2%80%A2%20Production%20Systems&descSize=20&descAlignY=65&descColor=FFFFFF&animation=fadeIn"/>
+<!-- HEADER: waving gold→black gradient with twinkling animation -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:D4AF37,25:B8960C,55:1A1200,100:000000&reversal=true&section=header&text=ARDA%20MOUSTAFA&fontColor=FFE566&fontSize=86&fontAlignY=50&desc=AI%20Engineer%20%E2%80%A2%20Backend%20Architect%20%E2%80%A2%20Production%20Systems&descSize=19&descAlignY=72&descColor=E0E0E0&animation=twinkling&stroke=D4AF37&strokeWidth=2"/>
 
 </div>
 
@@ -283,7 +283,7 @@ OPEN TO: Collaboration · AI Products · Backend Systems · Hard Problems
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0B0B0F,100:D4AF37&height=180&section=footer&text=Clean%20systems.%20Real%20impact.%20No%20shortcuts.&fontSize=22&fontColor=F5F5F5&animation=fadeIn&fontAlignY=65"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1A1200,100:D4AF37&height=180&section=footer&text=Clean%20systems.%20Real%20impact.%20No%20shortcuts.&fontSize=22&fontColor=FFE566&animation=twinkling&fontAlignY=65&stroke=D4AF37&strokeWidth=1"/>
 
 </div>
 
