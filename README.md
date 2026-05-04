@@ -1,329 +1,125 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=330&color=0:050505,25:0B0B0F,55:1A1A1D,100:D4AF37&text=ARDA%20MOUSTAFA&fontColor=F5F5F5&fontSize=78&fontAlignY=42&desc=AI%20Engineer%20%E2%80%A2%20Backend%20Architect%20%E2%80%A2%20Production%20Systems&descSize=18&descAlignY=63&descColor=D4AF37&animation=fadeIn"/>
+<!-- HEADER: Sleek, Minimalist, Midnight Blue Gradient -->
+<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=020617,0A1128,1C2541&height=280&section=header&text=ARDA%20MOUSTAFA&fontColor=F8FAFC&fontSize=70&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20Backend%20Architect%20%E2%80%A2%20Production%20Systems&descSize=20&descAlignY=60&animation=fadeIn](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=020617,0A1128,1C2541&height=280&section=header&text=ARDA%20MOUSTAFA&fontColor=F8FAFC&fontSize=70&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20Backend%20Architect%20%E2%80%A2%20Production%20Systems&descSize=20&descAlignY=60&animation=fadeIn)"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=22&duration=2400&pause=800&color=D4AF37&center=true&vCenter=true&width=900&lines=Most+code+works+in+demos.;Mine+is+built+to+survive+production.;AI+systems.+Backend+architecture.+Real-world+latency.;I+build+things+that+do+not+break+when+users+arrive."/>
+<!-- DYNAMIC TYPING: Clean, professional, focused -->
+<a href="[https://ardamoustafacv.netlify.app](https://ardamoustafacv.netlify.app)">
+  <img src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=64B5F6&center=true&vCenter=true&width=900&lines=Most+code+works+in+demos.;Mine+is+built+to+survive+production.;I+build+scalable+AI+systems+and+async+backend+architectures](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=64B5F6&center=true&vCenter=true&width=900&lines=Most+code+works+in+demos.;Mine+is+built+to+survive+production.;I+build+scalable+AI+systems+and+async+backend+architectures)."/>
+</a>
+
+<br/>
+
+<!-- BADGES: Unified sleek dark/blue theme -->
+<a href="[https://ardamoustafacv.netlify.app](https://ardamoustafacv.netlify.app)"><img src="[https://img.shields.io/badge/Portfolio-0A1128?style=for-the-badge&logo=vercel&logoColor=white&border=1C2541](https://img.shields.io/badge/Portfolio-0A1128?style=for-the-badge&logo=vercel&logoColor=white&border=1C2541)"/></a>
+<a href="[https://linkedin.com/in/arda-moustafa-746335335](https://linkedin.com/in/arda-moustafa-746335335)"><img src="[https://img.shields.io/badge/LinkedIn-0A1128?style=for-the-badge&logo=linkedin&logoColor=64B5F6&border=1C2541](https://img.shields.io/badge/LinkedIn-0A1128?style=for-the-badge&logo=linkedin&logoColor=64B5F6&border=1C2541)"/></a>
+<a href="[https://github.com/ardamoustafa1](https://github.com/ardamoustafa1)"><img src="[https://img.shields.io/badge/GitHub-0A1128?style=for-the-badge&logo=github&logoColor=white&border=1C2541](https://img.shields.io/badge/GitHub-0A1128?style=for-the-badge&logo=github&logoColor=white&border=1C2541)"/></a>
+<a href="mailto:ardamoustafa@hotmail.com"><img src="[https://img.shields.io/badge/Email-0A1128?style=for-the-badge&logo=gmail&logoColor=64B5F6&border=1C2541](https://img.shields.io/badge/Email-0A1128?style=for-the-badge&logo=gmail&logoColor=64B5F6&border=1C2541)"/></a>
 
 <br/><br/>
 
-<a href="https://ardamoustafacv.netlify.app">
-  <img src="https://img.shields.io/badge/PORTFOLIO-D4AF37?style=for-the-badge&logo=vercel&logoColor=050505"/>
+<a href="[https://github.com/ardamoustafa1](https://github.com/ardamoustafa1)">
+  <img src="[https://komarev.com/ghpvc/?username=ardamoustafa1&style=flat-square&color=0A1128&label=PROFILE+VIEWS&labelColor=020617](https://komarev.com/ghpvc/?username=ardamoustafa1&style=flat-square&color=0A1128&label=PROFILE+VIEWS&labelColor=020617)"/>
 </a>
-<a href="https://linkedin.com/in/arda-moustafa-746335335">
-  <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=D4AF37"/>
-</a>
-<a href="https://github.com/ardamoustafa1">
-  <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=D4AF37"/>
-</a>
-<a href="mailto:ardamoustafa@hotmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-D4AF37?style=for-the-badge&logo=gmail&logoColor=050505"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=ardamoustafa1&style=for-the-badge&color=D4AF37&label=PROFILE+VIEWS"/>
 
 </div>
+
+<br/>
 
 ---
 
-<div align="center">
+### 🚀 The System
 
-# `THE SYSTEM`
+> **I do not optimize for looking busy. I optimize for systems that survive.**
+> Real users. Real latency. Real failures. Real production pressure. No demo thinking. No fragile architecture.
 
-</div>
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-```txt
-BUILD MODE
-PRODUCTION
-```
-
-</td>
-<td width="33%" align="center">
-
-```txt
-TARGET P95
-< 800ms
-```
-
-</td>
-<td width="33%" align="center">
-
-```txt
-STACK LEVEL
-FULL SYSTEM
-```
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## `IDENTITY`
-
-</div>
-
-<table>
-<tr>
-<td width="58%" valign="top">
-
-```python
-class ArdaMoustafa:
-    role = "AI Engineer & Software Developer"
-    company = "Softhub"
-    university = "İstinye University · Computer Engineering"
-    location = "Istanbul, Türkiye"
-
-    focus = [
-        "AI-powered production systems",
-        "Async backend architecture",
-        "NLP & Speech-to-Text pipelines",
-        "Real-time data platforms",
-        "Scalable system design"
-    ]
-
-    motto = "Build systems. Not demos."
-```
-
-</td>
-<td width="42%" valign="top">
-
-```txt
-SIGNATURE
-────────────────────────
-AI Systems      ██████████
-Backend APIs    ██████████
-NLP Pipelines   █████████░
-Cloud / DevOps  ████████░░
-Frontend        ███████░░░
-
-ENGINEERING STYLE
-────────────────────────
-Clean architecture
-Production-first
-Security-aware
-Latency-obsessed
-```
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## `IMPACT`
-
-</div>
+<br/>
 
 <div align="center">
 
 | Metric | Result | Meaning |
-|---|---:|---|
-| API latency | `-60%` | async backend optimization |
-| NLP accuracy | `80%+` | production classification |
-| CI/CD pipeline | `13 stages` | automated delivery |
-| Data providers | `8` | real-time ingestion |
-| Target latency | `<800ms p95` | load-aware system design |
+|:---|:---:|:---|
+| **API Latency** | `-60%` | Async backend optimization & caching |
+| **NLP Accuracy** | `80%+` | Production-ready classification pipelines |
+| **Delivery** | `13 stages` | Automated CI/CD deployment pipelines |
+| **Target** | `<800ms` | P95 load-aware system design |
 
 </div>
 
+<br/>
+
 ---
 
-<div align="center">
+### 💻 Tech Stack
 
-## `CORE BUILDS`
+<div align="center">
+  
+**AI & Machine Learning**<br/>
+<img src="[https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn](https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn)" />
+
+<br/>
+
+**Backend & Architecture**<br/>
+<img src="[https://skillicons.dev/icons?i=fastapi,flask,postgresql,redis,elasticsearch,docker,aws,linux,nginx](https://skillicons.dev/icons?i=fastapi,flask,postgresql,redis,elasticsearch,docker,aws,linux,nginx)" />
 
 </div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### `MarketPulseAI`
-
-```txt
-Financial Intelligence Engine
-
-8 live data providers
-        ↓
-Real-time pricing engine
-        ↓
-JWT + TOTP + HMAC auth
-        ↓
-PostgreSQL + Redis
-        ↓
-13-stage CI/CD
-        ↓
-AWS ECS deployment
-
-STATUS: PRODUCTION-ORIENTED
-```
-
-<a href="https://github.com/ardamoustafa1/MarketPulseAI">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=ardamoustafa1&repo=MarketPulseAI&theme=dark&hide_border=true&bg_color=0B0B0F&title_color=D4AF37&icon_color=D4AF37&text_color=F5F5F5"/>
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### `SystemForge-AI`
-
-```txt
-Artifact-First AI Design Platform
-
-Natural language input
-        ↓
-Fault-tolerant LLM pipeline
-        ↓
-Schema-first output
-        ↓
-Redis Streams + workers
-        ↓
-WebSocket streaming
-        ↓
-ADR + Threat Model generation
-
-STATUS: ACTIVE
-```
-
-<a href="https://github.com/ardamoustafa1/SystemForge-AI">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=ardamoustafa1&repo=SystemForge-AI&theme=dark&hide_border=true&bg_color=0B0B0F&title_color=D4AF37&icon_color=D4AF37&text_color=F5F5F5"/>
-</a>
-
-</td>
-</tr>
-</table>
+<br/>
 
 ---
 
+### ⚡ Core Builds
+
+<p align="center">
+  <a href="[https://github.com/ardamoustafa1/MarketPulseAI](https://github.com/ardamoustafa1/MarketPulseAI)">
+    <img width="48%" src="[https://github-readme-stats.vercel.app/api/pin/?username=ardamoustafa1&repo=MarketPulseAI&theme=dark&bg_color=0A1128&title_color=64B5F6&icon_color=64B5F6&text_color=94A3B8&border_color=1C2541&hide_border=true](https://github-readme-stats.vercel.app/api/pin/?username=ardamoustafa1&repo=MarketPulseAI&theme=dark&bg_color=0A1128&title_color=64B5F6&icon_color=64B5F6&text_color=94A3B8&border_color=1C2541&hide_border=true)" />
+  </a>
+  <a href="[https://github.com/ardamoustafa1/SystemForge-AI](https://github.com/ardamoustafa1/SystemForge-AI)">
+    <img width="48%" src="[https://github-readme-stats.vercel.app/api/pin/?username=ardamoustafa1&repo=SystemForge-AI&theme=dark&bg_color=0A1128&title_color=64B5F6&icon_color=64B5F6&text_color=94A3B8&border_color=1C2541&hide_border=true](https://github-readme-stats.vercel.app/api/pin/?username=ardamoustafa1&repo=SystemForge-AI&theme=dark&bg_color=0A1128&title_color=64B5F6&icon_color=64B5F6&text_color=94A3B8&border_color=1C2541&hide_border=true)" />
+  </a>
+</p>
+
 <div align="center">
 
-## `PROJECT MATRIX`
-
-| Project | Domain | Core Idea |
+| Artifact | Domain | Core Engine |
 |---|---|---|
-| [MarketPulseAI](https://github.com/ardamoustafa1/MarketPulseAI) | Fintech | real-time intelligence platform |
-| [SystemForge-AI](https://github.com/ardamoustafa1/SystemForge-AI) | AI Architecture | LLM-powered system design |
-| [TextHelper](https://github.com/ardamoustafa1/TextHelper) | Turkish NLP | BERT + morphology engine |
-| [StreamGuard](https://github.com/ardamoustafa1/StreamGuard) | Broadcast AI | anomaly detection + Auto-DVR |
-| [MediaAudit](https://github.com/ardamoustafa1/MediaAudit) | Ad Intelligence | fingerprinting + evidence clipping |
-| [TrustMask](https://github.com/ardamoustafa1/TrustMask) | Safety AI | explainable toxic detection |
+| [**TextHelper**](https://github.com/ardamoustafa1/TextHelper) | Turkish NLP | BERT + morphology engine |
+| [**StreamGuard**](https://github.com/ardamoustafa1/StreamGuard) | Broadcast AI | Anomaly detection + Auto-DVR |
+| [**MediaAudit**](https://github.com/ardamoustafa1/MediaAudit) | Ad Intelligence | Fingerprinting + evidence clipping |
+| [**TrustMask**](https://github.com/ardamoustafa1/TrustMask) | Safety AI | Explainable toxic detection |
 
 </div>
+
+<br/>
+
+---
+
+### 📈 GitHub Telemetry
+
+<p align="center">
+  <img width="48%" src="[https://github-readme-stats.vercel.app/api?username=ardamoustafa1&show_icons=true&theme=dark&bg_color=020617&title_color=64B5F6&icon_color=64B5F6&text_color=94A3B8&border_color=1C2541&hide_border=true&include_all_commits=true&rank_icon=github](https://github-readme-stats.vercel.app/api?username=ardamoustafa1&show_icons=true&theme=dark&bg_color=020617&title_color=64B5F6&icon_color=64B5F6&text_color=94A3B8&border_color=1C2541&hide_border=true&include_all_commits=true&rank_icon=github)" />
+  <img width="48%" src="[https://github-readme-streak-stats.herokuapp.com?user=ardamoustafa1&theme=dark&background=020617&ring=64B5F6&fire=64B5F6&currStreakLabel=64B5F6&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8&border=1C2541&hide_border=true](https://github-readme-streak-stats.herokuapp.com?user=ardamoustafa1&theme=dark&background=020617&ring=64B5F6&fire=64B5F6&currStreakLabel=64B5F6&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8&border=1C2541&hide_border=true)" />
+</p>
+
+<p align="center">
+  <img width="97%" src="[https://github-readme-activity-graph.vercel.app/graph?username=ardamoustafa1&theme=github-compact&bg_color=020617&color=64B5F6&line=64B5F6&point=F8FAFC&area=true&hide_border=true&custom_title=System%20Contributions](https://github-readme-activity-graph.vercel.app/graph?username=ardamoustafa1&theme=github-compact&bg_color=020617&color=64B5F6&line=64B5F6&point=F8FAFC&area=true&hide_border=true&custom_title=System%20Contributions)" />
+</p>
+
+<br/>
 
 ---
 
 <div align="center">
 
-## `STACK`
+**`STATUS: 8/8 CERTIFICATIONS LOADED`** <br/>
+*Google AI Essentials · Google Prompting · Project Management · Blockchain*
 
-### AI & Machine Learning
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn"/>
+<br/>
 
-### Backend & Databases
-<img src="https://skillicons.dev/icons?i=fastapi,flask,postgresql,redis,elasticsearch"/>
-
-### Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,docker,terraform,githubactions,linux"/>
-
-### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css"/>
-
-</div>
-
----
-
-<div align="center">
-
-## `GITHUB TELEMETRY`
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ardamoustafa1&show_icons=true&theme=dark&hide_border=true&bg_color=0B0B0F&title_color=D4AF37&icon_color=D4AF37&text_color=F5F5F5&include_all_commits=true&rank_icon=github"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=ardamoustafa1&theme=dark&hide_border=true&background=0B0B0F&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=F5F5F5&currStreakNum=ffffff&sideNums=ffffff&dates=8A8A8A"/>
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ardamoustafa1&theme=github-compact&hide_border=true&bg_color=0B0B0F&color=D4AF37&line=D4AF37&point=F5F5F5&area=true&custom_title=Contribution%20Activity"/>
-
-</div>
-
----
-
-<div align="center">
-
-## `ENGINEERING MANIFESTO`
-
-</div>
-
-```txt
-I do not optimize for looking busy.
-
-I optimize for systems that survive:
-- real users
-- real latency
-- real failures
-- real production pressure
-
-No demo thinking.
-No fragile architecture.
-No shortcuts hidden under pretty UI.
-```
-
----
-
-<div align="center">
-
-## `CERTIFICATIONS`
-
-</div>
-
-```txt
-VERIFIED CREDENTIALS
-────────────────────────────────────────────
-[✓] Google AI Essentials
-[✓] Google Prompt Engineering
-[✓] Google Project Management
-[✓] Google Introduction to AI
-[✓] Sui Blockchain Development
-[✓] API & API Testing
-[✓] Git & GitHub
-[✓] Mobile Game Programming
-────────────────────────────────────────────
-STATUS: 8/8 LOADED
-```
-
----
-
-<div align="center">
-
-## `CONNECT`
-
-```txt
-OPEN TO: Collaboration · AI Products · Backend Systems · Hard Problems
-```
-
-<a href="https://ardamoustafacv.netlify.app">
-  <img src="https://img.shields.io/badge/VISIT_PORTFOLIO-D4AF37?style=for-the-badge&logo=vercel&logoColor=050505"/>
-</a>
 <a href="mailto:ardamoustafa@hotmail.com">
-  <img src="https://img.shields.io/badge/SEND_EMAIL-D4AF37?style=for-the-badge&logo=gmail&logoColor=050505"/>
+  <img src="[https://img.shields.io/badge/ESTABLISH_CONNECTION-0A1128?style=for-the-badge&logo=minutemailer&logoColor=64B5F6&border=1C2541](https://img.shields.io/badge/ESTABLISH_CONNECTION-0A1128?style=for-the-badge&logo=minutemailer&logoColor=64B5F6&border=1C2541)"/>
 </a>
-<a href="https://linkedin.com/in/arda-moustafa-746335335">
-  <img src="https://img.shields.io/badge/CONNECT_LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=D4AF37"/>
-</a>
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:0B0B0F,100:D4AF37&height=170&section=footer&text=Clean%20systems.%20Real%20impact.%20No%20shortcuts.&fontSize=24&fontColor=F5F5F5&animation=fadeIn"/>
 
 </div>
