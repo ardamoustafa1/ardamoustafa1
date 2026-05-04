@@ -25,7 +25,7 @@
 
 </div>
 
----## 🐍 CONTRIBUTION SNAKE
+## 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
 
@@ -72,7 +72,6 @@ jobs:
   3. Workflow'u Actions sekmesinden manuel çalıştır (workflow_dispatch)
   4. output branch otomatik oluşturulur → yılan görünür
 -->
-
 
 <div align="center">
 
