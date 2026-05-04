@@ -1,10 +1,57 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=320&color=0:020617,35:111827,65:7c3aed,100:22c55e&text=ARDA%20MOUSTAFA&fontColor=ffffff&fontSize=72&fontAlignY=43&desc=AI%20Engineer%20%E2%80%A2%20Backend%20Architect%20%E2%80%A2%20Production%20Systems&descSize=18&descAlignY=62&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:020617,100:020617&section=header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=24&duration=2200&pause=700&color=22C55E&center=true&vCenter=true&width=900&lines=I+don't+build+demos.+I+build+systems.;AI+pipelines+that+survive+real+users.;FastAPI+%E2%80%A2+PostgreSQL+%E2%80%A2+Redis+%E2%80%A2+AWS+%E2%80%A2+HuggingFace;Clean+code.+Real+impact.+Zero+shortcuts."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=20&duration=1800&pause=500&color=22C55E&center=true&vCenter=true&width=900&lines=%3E+SYSTEM+ONLINE;%3E+ENGINEER+DETECTED;%3E+BUILDING+PRODUCTION+SYSTEMS;%3E+NO+DEMO+CODE"/>
 
 <br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=ARDA%20MOUSTAFA&fontSize=72&fontColor=ffffff&fontAlignY=52&desc=Most%20code%20works%20in%20demos.%20Mine%20survives%20production.&descSize=18&descAlignY=88&descColor=22c55e"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=17&duration=2400&pause=900&color=38BDF8&center=true&vCenter=true&width=920&lines=AI+Engineer+%E2%80%A2+Backend+Architect+%E2%80%A2+NLP+Systems;FastAPI+%E2%80%A2+PostgreSQL+%E2%80%A2+Redis+%E2%80%A2+AWS+%E2%80%A2+HuggingFace;I+build+systems+that+do+not+collapse+when+users+arrive."/>
+
+<br/><br/>
+
+<table>
+<tr>
+<td align="center">
+
+```txt
+SYSTEM STATUS
+██████████ LIVE
+```
+
+</td>
+<td align="center">
+
+```txt
+REQUEST RATE
+2.3K / min
+```
+
+</td>
+<td align="center">
+
+```txt
+TARGET P95
+< 800ms
+```
+
+</td>
+<td align="center">
+
+```txt
+BUILD MODE
+PRODUCTION
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 <a href="https://ardamoustafacv.netlify.app">
   <img src="https://img.shields.io/badge/PORTFOLIO-22c55e?style=for-the-badge&logo=vercel&logoColor=000000"/>
@@ -13,7 +60,7 @@
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/ardamoustafa1">
-  <img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="mailto:ardamoustafa@hotmail.com">
   <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -23,13 +70,17 @@
 
 <img src="https://komarev.com/ghpvc/?username=ardamoustafa1&style=for-the-badge&color=22c55e&label=PROFILE+VIEWS"/>
 
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:020617,40:0f172a,70:0369a1,100:22c55e"/>
+
 </div>
 
 ---
 
 <div align="center">
 
-## `SYSTEM BOOT`
+# `BOOT SEQUENCE`
 
 </div>
 
@@ -51,13 +102,13 @@ LOCATION : ISTANBUL → WORLDWIDE
 
 <div align="center">
 
-## `WHOAMI`
+# `WHOAMI`
 
 </div>
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="58%" valign="top">
 
 ```python
 class ArdaMoustafa:
@@ -78,7 +129,7 @@ class ArdaMoustafa:
 ```
 
 </td>
-<td width="45%" valign="top">
+<td width="42%" valign="top">
 
 ```txt
 CURRENT SIGNALS
@@ -86,12 +137,14 @@ CURRENT SIGNALS
 AI Systems      ██████████
 Backend APIs    ██████████
 NLP Pipelines   █████████░
-Cloud/DevOps    ████████░░
+Cloud / DevOps  ████████░░
 Frontend        ███████░░░
 
-BUILD STYLE:
-Production-first.
-No shortcut code.
+BUILD STYLE
+────────────────────────
+Production-first
+Security-aware
+Performance-driven
 ```
 
 </td>
@@ -102,7 +155,7 @@ No shortcut code.
 
 <div align="center">
 
-## `IMPACT METRICS`
+# `IMPACT METRICS`
 
 </div>
 
@@ -110,10 +163,10 @@ No shortcut code.
 
 | Signal | Value | Meaning |
 |---|---:|---|
-| API latency | `-60%` | async FastAPI optimization |
-| NLP accuracy | `80%+` | production classification |
+| API Latency | `-60%` | async backend optimization |
+| NLP Accuracy | `80%+` | production classification |
 | CI/CD | `13 stages` | automated delivery pipeline |
-| Data streams | `8` | real-time ingestion |
+| Data Streams | `8` | real-time ingestion |
 | Target p95 | `<800ms` | load-aware backend design |
 
 </div>
@@ -122,7 +175,7 @@ No shortcut code.
 
 <div align="center">
 
-## `CORE SYSTEMS`
+# `CORE SYSTEMS`
 
 </div>
 
@@ -130,7 +183,7 @@ No shortcut code.
 <tr>
 <td width="50%" valign="top">
 
-### `MarketPulseAI`
+## `MarketPulseAI`
 
 ```txt
 Financial Intelligence Engine
@@ -151,13 +204,13 @@ STATUS: PRODUCTION-ORIENTED
 ```
 
 <a href="https://github.com/ardamoustafa1/MarketPulseAI">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=ardamoustafa1&repo=MarketPulseAI&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22c55e&icon_color=a855f7&text_color=cbd5e1"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=ardamoustafa1&repo=MarketPulseAI&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22c55e&icon_color=38bdf8&text_color=cbd5e1"/>
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-### `SystemForge-AI`
+## `SystemForge-AI`
 
 ```txt
 Artifact-First AI Design Platform
@@ -178,7 +231,7 @@ STATUS: ACTIVE
 ```
 
 <a href="https://github.com/ardamoustafa1/SystemForge-AI">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=ardamoustafa1&repo=SystemForge-AI&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22c55e&icon_color=a855f7&text_color=cbd5e1"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=ardamoustafa1&repo=SystemForge-AI&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22c55e&icon_color=38bdf8&text_color=cbd5e1"/>
 </a>
 
 </td>
@@ -189,7 +242,7 @@ STATUS: ACTIVE
 
 <div align="center">
 
-## `PROJECT MATRIX`
+# `PROJECT MATRIX`
 
 | Project | Domain | Core Idea |
 |---|---|---|
@@ -206,7 +259,7 @@ STATUS: ACTIVE
 
 <div align="center">
 
-## `STACK`
+# `STACK`
 
 ### AI & Machine Learning
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn"/>
@@ -226,14 +279,14 @@ STATUS: ACTIVE
 
 <div align="center">
 
-## `GITHUB TELEMETRY`
+# `GITHUB TELEMETRY`
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ardamoustafa1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22c55e&icon_color=a855f7&text_color=cbd5e1&include_all_commits=true&rank_icon=github"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=ardamoustafa1&theme=tokyonight&hide_border=true&background=020617&ring=22c55e&fire=a855f7&currStreakLabel=22c55e&sideLabels=cbd5e1&currStreakNum=ffffff&sideNums=ffffff&dates=94a3b8"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ardamoustafa1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22c55e&icon_color=38bdf8&text_color=cbd5e1&include_all_commits=true&rank_icon=github"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=ardamoustafa1&theme=tokyonight&hide_border=true&background=020617&ring=22c55e&fire=38bdf8&currStreakLabel=22c55e&sideLabels=cbd5e1&currStreakNum=ffffff&sideNums=ffffff&dates=94a3b8"/>
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ardamoustafa1&theme=tokyo-night&hide_border=true&bg_color=020617&color=22c55e&line=a855f7&point=ffffff&area=true&custom_title=Contribution%20Activity"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ardamoustafa1&theme=tokyo-night&hide_border=true&bg_color=020617&color=22c55e&line=38bdf8&point=ffffff&area=true&custom_title=Contribution%20Activity"/>
 
 </div>
 
@@ -241,7 +294,7 @@ STATUS: ACTIVE
 
 <div align="center">
 
-## `ENGINEERING PRINCIPLES`
+# `ENGINEERING PRINCIPLES`
 
 </div>
 
@@ -259,7 +312,7 @@ STATUS: ACTIVE
 
 <div align="center">
 
-## `CERTIFICATIONS`
+# `CERTIFICATIONS`
 
 </div>
 
@@ -282,7 +335,7 @@ STATUS: 8/8 LOADED
 
 <div align="center">
 
-## `CONNECT`
+# `CONNECT`
 
 ```txt
 OPEN TO: Collaboration · AI Products · Backend Systems · Hard Problems
@@ -304,6 +357,6 @@ OPEN TO: Collaboration · AI Products · Backend Systems · Hard Problems
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:a855f7,100:020617&height=160&section=footer&text=Clean%20code.%20Real%20systems.%20Zero%20shortcuts.&fontSize=24&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:0ea5e9,100:020617&height=160&section=footer&text=Clean%20code.%20Real%20systems.%20Zero%20shortcuts.&fontSize=24&fontColor=ffffff&animation=fadeIn"/>
 
 </div>
